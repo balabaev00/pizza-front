@@ -1,0 +1,69 @@
+[
+	{
+		"id": 0,
+		"image": "https://cdn.dodostatic.net/static/Img/Products/02270e55a3204ccaaf26d75f0c817d28_366x366.jpeg",
+		"name": "Папперони",
+		"types": [
+			0,
+			1
+		],
+		"sizes": [
+			26,
+			30,
+			40
+		],
+		"category": 0,
+		"rating": 4,
+		"price": 500
+	},
+	{
+		"id": 1,
+		"image": "https://cdn.dodostatic.net/static/Img/Products/4c7d597ec2074b1589e795d95db75f57_366x366.jpeg",
+		"name": "Микс",
+		"types": [
+			0,
+			1
+		],
+		"sizes": [
+			26,
+			30,
+			40
+		],
+		"category": 0,
+		"rating": 4,
+		"price": 399
+	},
+	{
+		"id": 2,
+		"image": "https://cdn.dodostatic.net/static/Img/Products/1e3e653d3e9b4b77ae0bdacf8827f6f6_366x366.jpeg",
+		"name": "Четыре сыра",
+		"types": [
+			0,
+			1
+		],
+		"sizes": [
+			26,
+			30,
+			40
+		],
+		"category": 0,
+		"rating": 4,
+		"price": 500
+	},
+	{
+		"id": 3,
+		"image": "https://cdn.dodostatic.net/static/Img/Products/5630c6ed3f394c7ba25e1ef79a67b7ee_366x366.jpeg",
+		"name": "Ветчина",
+		"types": [
+			0,
+			1
+		],
+		"sizes": [
+			26,
+			30
+		],
+		"category": 0,
+		"rating": 4,
+		"price": 400
+	}
+]
